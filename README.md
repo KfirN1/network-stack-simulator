@@ -33,7 +33,7 @@ docs/              full project report in Hebrew (traffic analysis, NAT, QUIC, T
 
 ## Running
 
-Requires Python 3.8+ and `requests` (`pip install requests`). Run each part in its own terminal **from the repository root**
+Requires Python 3.8+ and `requests` (`pip install -r requirements.txt`). Run each part in its own terminal **from the repository root**
 (ports 53/67/80 may require administrator / root privileges):
 
 ```bash

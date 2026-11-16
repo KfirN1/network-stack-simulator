@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 Client/downloads/*
 !Client/downloads/.gitkeep
+downloads/
